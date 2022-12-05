@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shahim Panjwani
 - 👀 I’m interested in building applications that would aid people on a day to day basis!
 - 🌱 I’m currently learning programming languages such as JavaScript, Java, C++, Solidity, HTML, and CSS.
-- 💞️ I’m looking to collaborate on projects that I could put on my portfolio, or projects that inolve helping people!
+- 💞️ Current Tech Stack - Java, Python, C++, C#, JavaScript, CSS, and Solidity!
 - 📫 How to reach me: Shahim.panjwani@gmail.com
 
 <!---
